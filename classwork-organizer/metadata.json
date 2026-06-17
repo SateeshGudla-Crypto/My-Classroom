@@ -1,0 +1,6 @@
+{
+  "name": "Classwork Organizer",
+  "description": "A comprehensive digital desk for organizing class schedules, tasks, lecture notes, and study aids with server-side AI flashcard and quiz generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
